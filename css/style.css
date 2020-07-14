@@ -407,7 +407,7 @@ tr > td:nth-child(2) {
         }
 
 .about-me {
-    background: url(../images/me..webp) no-repeat;
+    background: url(../images/me.webp) no-repeat;
     background-position-x: 100%;
     background-position-y: 100%
 }
